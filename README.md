@@ -2,6 +2,7 @@ My public repos of research for problem solving, implement new tech solution, an
 
 # BACKEND
 ### Go
+- [research-swagger-gopath-nethttp](https://github.com/denitiawan/research-swagger-gopath-nethttp)
 - [research-swagger-gomod-gorillamux](https://github.com/denitiawan/research-swagger-gomod-gorillamux)
 - [research-swagger-gomod-gin](https://github.com/denitiawan/research-swagger-gomod-gin)
 
