@@ -1,4 +1,4 @@
-# Just public repositories for documentations only
+# Public repositories for documentations only
 
 
 |Date|Issue|Stack|Documentation|
