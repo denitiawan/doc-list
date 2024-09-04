@@ -1,10 +1,10 @@
 ## Device Check Validate API
-### prompt
-```
-tampilkan api spec : Device Check Validate API
-```
-### expected
-<img src="https://github.com/user-attachments/assets/ebfd8b5b-40e0-4c10-a860-e7d86bad7be6" width="500"  >
+|Name|Value|
+|--|--|
+|Prompt|tampilkan api spec : Device Check Validate API|
+|Expected|<img src="https://github.com/user-attachments/assets/ebfd8b5b-40e0-4c10-a860-e7d86bad7be6" width="500"  >|
+|Result|<img src="https://github.com/user-attachments/assets/a1ff685c-e768-40dc-bf6c-035eb1698600" width="300"  >|
 
-### result
-<img src="https://github.com/user-attachments/assets/cf66925b-386d-4106-a38d-f5e708d1b432" width="300"  >
+```
+<img src="" width="300"  >
+```
