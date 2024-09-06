@@ -14,4 +14,15 @@
 |Result|<img src="https://github.com/user-attachments/assets/a33bdbf4-f33c-47af-9d51-db213c578cfa" width="30"  >|
 
 
+## Create dataset folder structure
+|Name|Value|
+|--|--|
+|Bitbucket PR|<img src="https://github.com/user-attachments/assets/5d453925-b3fc-4de1-8977-af6eb0222a48" width="50"  >|
+|Structure Folder Dataset|<img src="https://github.com/user-attachments/assets/514253c7-44ce-4da6-9c5d-ecb17bbb1b54" width="50"  >|
+|Change-logs version|<img src="https://github.com/user-attachments/assets/e8a9eb08-4f21-46e1-9a3b-92fd9928385a" width="50"  >|
+
+
+
+
+
 
